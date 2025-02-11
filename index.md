@@ -6,6 +6,8 @@ Distrolabs is a sub-project/brand of soyraiz1 and Icycoide. This is made specifi
 git clone https://github.com/kevadesu/TylkoLinux
 git checkout delirium
 ```
+[Follow the guide here](https://rootsource.cc/Articles/tylkolinux-installation/)
+[Source code](https://github.com/distrolabs/TylkoLinux)
 
 ## Get ElemintOS
 [Click here to be redirected](https://icycoide.github.io/ElemintOS)
