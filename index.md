@@ -7,7 +7,8 @@ git clone https://github.com/kevadesu/TylkoLinux
 git checkout delirium
 ```
 [Follow the guide here](https://rootsource.cc/Articles/tylkolinux-installation/)
-[Source code](https://github.com/distrolabs/TylkoLinux)
+
+[Source code for scripts](https://github.com/distrolabs/TylkoLinux)
 
 ## Get ElemintOS
 [Click here to be redirected](https://icycoide.github.io/ElemintOS)
